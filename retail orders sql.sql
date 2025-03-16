@@ -45,7 +45,7 @@ order by order_month
 
 
 
---for each category which momth had the highest sales
+--for each category which month had the highest sales
 with cte as (
 select 
 category,
